@@ -1,0 +1,14 @@
+{
+  "name": "html-raze",
+  "version": "1.0.0",
+  "description": "Get flatten list of JS/CSS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ebranddit",
+  "license": "ISC"
+}
